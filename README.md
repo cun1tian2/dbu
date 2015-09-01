@@ -1,3 +1,4 @@
+150902 htac.cgi xrehbr112から最新ver(110326)再利用, 旧v(tk2aym110226,tk2nan110226,xress292-110225のみ、他無し)
 Dbg dbu.cgi  commandLine実行結果不正：  print `cat tmp.txt`;実行正常、print "<pass>1111<b>";
  [ﾚ] escHTML実行(modeSW[X]pipe/IO_selのon/off同じ) → result"<pass>1111<b>" src"print "1111";" これ以降の画面文字太字となる。
   formデータのdwld分、memoとbodyはescHTMLされてる。 modeSW[X]pipe/IO_sel使う？ 一時的 STDO pipeで切替？
